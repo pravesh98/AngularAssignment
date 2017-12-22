@@ -1,0 +1,59 @@
+<html>
+   <head>
+      <title>PYC-2018</title>
+      
+      <!-- Bootstrap files -->
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+      <!-- Angular files -->
+      <script src = "https://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
+      <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular-route.js"></script>
+      <!-- Controller file -->
+      <script src="../js/controller/assignmentController.js"></script>
+      <!-- Factory file -->
+      <script src="../js/factory/assignmentFactory.js"></script>
+      <!-- css file -->
+      <link rel="stylesheet" type="text/css" href="../css/assignment.css">
+
+   </head>
+   <body ng-app="app">
+
+<!--    <img src="../data/images/loading.gif" ng-cloak/> -->
+
+   <div ng-controller="displayController">
+   		<!-- {{rss}} -->
+          {{sample()}} 
+         <div class="container">
+         <input type="text" ng-model="searchByCountry" class="input-box-for-search col-md-12 col-xs-12" placeholder="search almost anything">
+          <table class="table">
+            <thead>
+            <tr>
+               <th class="col-sm-2"><button class="transparent-button" ng-click="sortColumn('SrNo')"  ng-class="sortClass('SrNo')">Sr No</button></th>
+               <th class="col-sm-2"><button class="transparent-button" ng-click="sortColumn('Name')" ng-class="sortClass('Name')">Name</button></th>
+               <th class="col-sm-2"><button class="transparent-button" ng-click="sortColumn('Rank')" ng-class="sortClass('Rank')">Rank</button></th>
+               <th class="col-sm-2"><button class="transparent-button" ng-click="sortColumn('City')" ng-class="sortClass('City')">City</button></th>
+               <th class="col-sm-2"><button class="transparent-button" ng-click="sortColumn('Country')" ng-class="sortClass('Country')">Country</button></th>
+               <th class="col-sm-2">Flags</th>
+            </tr>
+         </thead>
+         <tbody>
+             <tr ng-repeat="r in rss | filter:searchByCountry | orderBy:column:reverse">
+               <td>{{r.SrNo}}</td>
+               <td>{{r.Name}}</td>
+               <td>{{r.Rank}}</td>
+               <td>{{r.City}}</td>
+               <td>{{r.Country}}</td>
+               <td><img src="../data/images/{{r.Country}}.png" class="table-image-data" alt="this"></td>
+               </tr> 
+         </tbody>
+         </table>
+   </div>
+
+<!--    <div ng-controller="formController">
+   		{{form}}
+   </div>
+ -->
+ 
+   </body>
+</html>

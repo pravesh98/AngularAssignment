@@ -1,0 +1,795 @@
+{
+  "OdfBody": {
+    "-CompetitionCode": "OWG2018",
+    "-DocumentCode": "CURWTEAM4-------------------------",
+    "-DocumentType": "DT_RANKING",
+    "-ResultStatus": "OFFICIAL",
+    "-Version": "7",
+    "-FeedFlag": "P",
+    "-Date": "2017-12-01",
+    "-Time": "225838145",
+    "-LogicalDate": "2017-12-01",
+    "-Source": "GCCCUR1",
+    "Competition": {
+      "ExtendedInfos": {
+        "SportDescription": {
+          "-DisciplineName": "Curling",
+          "-EventName": "Women",
+          "-Gender": "W"
+        },
+        "VenueDescription": {
+          "-Venue": "GCC",
+          "-VenueName": "Gangneung Curling Centre"
+        }
+      },
+      "Result": [
+        {
+          "-Rank": "1",
+          "-Played": "11",
+          "-Won": "7",
+          "-Lost": "4",
+          "-SortOrder": "1",
+          "Competitor": {
+            "-Code": "CURWTEAM4---GBR01",
+            "-Type": "T",
+            "-Organisation": "GBR",
+            "Description": { "-TeamName": "Great Britain" },
+            "Composition": {
+              "Athlete": [
+                {
+                  "-Code": "7740546",
+                  "-Order": "1",
+                  "Description": {
+                    "-GivenName": "Eve",
+                    "-FamilyName": "Muirhead",
+                    "-Gender": "F",
+                    "-Organisation": "GBR",
+                    "-BirthDate": "1990-04-22",
+                    "-IFId": "GBRW19900422"
+                  }
+                },
+                {
+                  "-Code": "7740549",
+                  "-Order": "2",
+                  "Description": {
+                    "-GivenName": "Anna",
+                    "-FamilyName": "Sloan",
+                    "-Gender": "F",
+                    "-Organisation": "GBR",
+                    "-BirthDate": "1991-02-05",
+                    "-IFId": "GBRW19910205"
+                  }
+                },
+                {
+                  "-Code": "7740527",
+                  "-Order": "3",
+                  "Description": {
+                    "-GivenName": "Vicki",
+                    "-FamilyName": "Adams",
+                    "-Gender": "F",
+                    "-Organisation": "GBR",
+                    "-BirthDate": "1989-11-16",
+                    "-IFId": "GBRW19891116"
+                  }
+                },
+                {
+                  "-Code": "7740539",
+                  "-Order": "4",
+                  "Description": {
+                    "-GivenName": "Claire",
+                    "-FamilyName": "Hamilton",
+                    "-Gender": "F",
+                    "-Organisation": "GBR",
+                    "-BirthDate": "1989-01-31",
+                    "-IFId": "GBRW19890131"
+                  }
+                },
+                {
+                  "-Code": "7740537",
+                  "-Order": "5",
+                  "Description": {
+                    "-GivenName": "Lauren",
+                    "-FamilyName": "Gray",
+                    "-Gender": "F",
+                    "-Organisation": "GBR",
+                    "-BirthDate": "1991-11-03",
+                    "-IFId": "GBRW19911103"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "-Rank": "2",
+          "-Played": "11",
+          "-Won": "10",
+          "-Lost": "1",
+          "-SortOrder": "2",
+          "Competitor": {
+            "-Code": "CURWTEAM4---CAN01",
+            "-Type": "T",
+            "-Organisation": "CAN",
+            "Description": { "-TeamName": "Canada" },
+            "Composition": {
+              "Athlete": [
+                {
+                  "-Code": "7740236",
+                  "-Order": "1",
+                  "Description": {
+                    "-GivenName": "Jennifer",
+                    "-FamilyName": "Jones",
+                    "-Gender": "F",
+                    "-Organisation": "CAN",
+                    "-BirthDate": "1974-07-07",
+                    "-IFId": "CANW19740707"
+                  }
+                },
+                {
+                  "-Code": "7740250",
+                  "-Order": "2",
+                  "Description": {
+                    "-GivenName": "Kaitlyn",
+                    "-FamilyName": "Lawes",
+                    "-Gender": "F",
+                    "-Organisation": "CAN",
+                    "-BirthDate": "1988-12-16",
+                    "-IFId": "CANW19881216"
+                  }
+                },
+                {
+                  "-Code": "7740297",
+                  "-Order": "3",
+                  "Description": {
+                    "-GivenName": "Jill",
+                    "-FamilyName": "Officer",
+                    "-Gender": "F",
+                    "-Organisation": "CAN",
+                    "-BirthDate": "1975-06-02",
+                    "-IFId": "CANW19750602"
+                  }
+                },
+                {
+                  "-Code": "7740176",
+                  "-Order": "4",
+                  "Description": {
+                    "-GivenName": "Dawn",
+                    "-FamilyName": "McEwen",
+                    "-Gender": "F",
+                    "-Organisation": "CAN",
+                    "-BirthDate": "1980-07-03",
+                    "-IFId": "CANW19800703"
+                  }
+                },
+                {
+                  "-Code": "7740336",
+                  "-Order": "5",
+                  "Description": {
+                    "-GivenName": "Kirsten",
+                    "-FamilyName": "Wall",
+                    "-Gender": "F",
+                    "-Organisation": "CAN",
+                    "-BirthDate": "1975-11-27",
+                    "-IFId": "CANW19751127"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "-Rank": "3",
+          "-Played": "11",
+          "-Won": "6",
+          "-Lost": "5",
+          "-SortOrder": "3",
+          "Competitor": {
+            "-Code": "CURWTEAM4---SUI01",
+            "-Type": "T",
+            "-Organisation": "SUI",
+            "Description": { "-TeamName": "Switzerland" },
+            "Composition": {
+              "Athlete": [
+                {
+                  "-Code": "7740571",
+                  "-Order": "1",
+                  "Description": {
+                    "-GivenName": "Mirjam",
+                    "-FamilyName": "Ott",
+                    "-Gender": "F",
+                    "-Organisation": "SUI",
+                    "-BirthDate": "1972-01-27",
+                    "-IFId": "SUIW19720127"
+                  }
+                },
+                {
+                  "-Code": "7740575",
+                  "-Order": "2",
+                  "Description": {
+                    "-GivenName": "Carmen",
+                    "-FamilyName": "Schaefer",
+                    "-Gender": "F",
+                    "-Organisation": "SUI",
+                    "-BirthDate": "1981-01-08",
+                    "-IFId": "SUIW19810108"
+                  }
+                },
+                {
+                  "-Code": "7740583",
+                  "-Order": "3",
+                  "Description": {
+                    "-GivenName": "Carmen",
+                    "-FamilyName": "Kueng",
+                    "-Gender": "F",
+                    "-Organisation": "SUI",
+                    "-BirthDate": "1978-01-30",
+                    "-IFId": "SUIW19780130"
+                  }
+                },
+                {
+                  "-Code": "7740580",
+                  "-Order": "4",
+                  "Description": {
+                    "-GivenName": "Janine",
+                    "-FamilyName": "Greiner",
+                    "-Gender": "F",
+                    "-Organisation": "SUI",
+                    "-BirthDate": "1981-02-13",
+                    "-IFId": "SUIW19810213"
+                  }
+                },
+                {
+                  "-Code": "7740572",
+                  "-Order": "5",
+                  "Description": {
+                    "-GivenName": "Alina",
+                    "-FamilyName": "Paetz",
+                    "-Gender": "F",
+                    "-Organisation": "SUI",
+                    "-BirthDate": "1990-03-08",
+                    "-IFId": "SUIW19900308"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "-Rank": "4",
+          "-Played": "9",
+          "-Won": "4",
+          "-Lost": "5",
+          "-SortOrder": "4",
+          "Competitor": {
+            "-Code": "CURWTEAM4---JPN01",
+            "-Type": "T",
+            "-Organisation": "JPN",
+            "Description": { "-TeamName": "Japan" },
+            "Composition": {
+              "Athlete": [
+                {
+                  "-Code": "7740394",
+                  "-Order": "1",
+                  "Description": {
+                    "-GivenName": "Ayumi",
+                    "-FamilyName": "Ogasawara",
+                    "-Gender": "F",
+                    "-Organisation": "JPN",
+                    "-BirthDate": "1978-11-25",
+                    "-IFId": "JPNW19781125"
+                  }
+                },
+                {
+                  "-Code": "7740015",
+                  "-Order": "2",
+                  "Description": {
+                    "-GivenName": "Yumie",
+                    "-FamilyName": "Funayama",
+                    "-Gender": "F",
+                    "-Organisation": "JPN",
+                    "-BirthDate": "1978-04-05",
+                    "-IFId": "JPNW19780405"
+                  }
+                },
+                {
+                  "-Code": "7740016",
+                  "-Order": "3",
+                  "Description": {
+                    "-GivenName": "Kaho",
+                    "-FamilyName": "Onodera",
+                    "-Gender": "F",
+                    "-Organisation": "JPN",
+                    "-BirthDate": "1991-11-11",
+                    "-IFId": "JPNW19911111"
+                  }
+                },
+                {
+                  "-Code": "7740017",
+                  "-Order": "4",
+                  "Description": {
+                    "-GivenName": "Chinami",
+                    "-FamilyName": "Yoshida",
+                    "-Gender": "F",
+                    "-Organisation": "JPN",
+                    "-BirthDate": "1991-07-26",
+                    "-IFId": "JPNW19910726"
+                  }
+                },
+                {
+                  "-Code": "7740018",
+                  "-Order": "5",
+                  "Description": {
+                    "-GivenName": "Michiko",
+                    "-FamilyName": "Tomabechi",
+                    "-Gender": "F",
+                    "-Organisation": "JPN",
+                    "-BirthDate": "1980-01-29",
+                    "-IFId": "JPNW19800129"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "-Rank": "5",
+          "-Played": "9",
+          "-Won": "4",
+          "-Lost": "5",
+          "-SortOrder": "5",
+          "Competitor": {
+            "-Code": "CURWTEAM4---DEN01",
+            "-Type": "T",
+            "-Organisation": "DEN",
+            "Description": { "-TeamName": "Denmark" },
+            "Composition": {
+              "Athlete": [
+                {
+                  "-Code": "7740467",
+                  "-Order": "1",
+                  "Description": {
+                    "-GivenName": "Lene",
+                    "-FamilyName": "Nielsen",
+                    "-Gender": "F",
+                    "-Organisation": "DEN",
+                    "-BirthDate": "1986-08-31",
+                    "-IFId": "DENW19860831"
+                  }
+                },
+                {
+                  "-Code": "7740468",
+                  "-Order": "2",
+                  "Description": {
+                    "-GivenName": "Helle",
+                    "-FamilyName": "Simonsen",
+                    "-Gender": "F",
+                    "-Organisation": "DEN",
+                    "-BirthDate": "1984-09-07",
+                    "-IFId": "DENW19840907"
+                  }
+                },
+                {
+                  "-Code": "7740470",
+                  "-Order": "3",
+                  "Description": {
+                    "-GivenName": "Jeanne",
+                    "-FamilyName": "Ellegaard",
+                    "-Gender": "F",
+                    "-Organisation": "DEN",
+                    "-BirthDate": "1987-07-02",
+                    "-IFId": "DENW19870702"
+                  }
+                },
+                {
+                  "-Code": "7740464",
+                  "-Order": "4",
+                  "Description": {
+                    "-GivenName": "Maria",
+                    "-FamilyName": "Poulsen",
+                    "-Gender": "F",
+                    "-Organisation": "DEN",
+                    "-BirthDate": "1984-10-29",
+                    "-IFId": "DENW19841029"
+                  }
+                },
+                {
+                  "-Code": "7740018",
+                  "-Order": "5",
+                  "Description": {
+                    "-GivenName": "Michiko",
+                    "-FamilyName": "Tomabechi",
+                    "-Gender": "F",
+                    "-Organisation": "JPN",
+                    "-BirthDate": "1980-01-29",
+                    "-IFId": "JPNW19800129"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "-Rank": "6",
+          "-Played": "9",
+          "-Won": "4",
+          "-Lost": "5",
+          "-SortOrder": "6",
+          "Competitor": {
+            "-Code": "CURWTEAM4---CHN01",
+            "-Type": "T",
+            "-Organisation": "CHN",
+            "Description": { "-TeamName": "People's Republic of China" },
+            "Composition": {
+              "Athlete": [
+                {
+                  "-Code": "7740048",
+                  "-Order": "1",
+                  "Description": {
+                    "-GivenName": "Bingyu",
+                    "-FamilyName": "Wang",
+                    "-Gender": "F",
+                    "-Organisation": "CHN",
+                    "-BirthDate": "1984-07-07",
+                    "-IFId": "CHNW19840707"
+                  }
+                },
+                {
+                  "-Code": "7740049",
+                  "-Order": "2",
+                  "Description": {
+                    "-GivenName": "Yin",
+                    "-FamilyName": "Liu",
+                    "-Gender": "F",
+                    "-Organisation": "CHN",
+                    "-BirthDate": "1981-08-19",
+                    "-IFId": "CHNW19810819"
+                  }
+                },
+                {
+                  "-Code": "7740050",
+                  "-Order": "3",
+                  "Description": {
+                    "-GivenName": "Qingshuang",
+                    "-FamilyName": "Yue",
+                    "-Gender": "F",
+                    "-Organisation": "CHN",
+                    "-BirthDate": "1985-10-05",
+                    "-IFId": "CHNW19851005"
+                  }
+                },
+                {
+                  "-Code": "7740051",
+                  "-Order": "4",
+                  "Description": {
+                    "-GivenName": "Yan",
+                    "-FamilyName": "Zhou",
+                    "-Gender": "F",
+                    "-Organisation": "CHN",
+                    "-BirthDate": "1982-09-30",
+                    "-IFId": "CHNW19820930"
+                  }
+                },
+                {
+                  "-Code": "7740054",
+                  "-Order": "5",
+                  "Description": {
+                    "-GivenName": "Yilun",
+                    "-FamilyName": "Jiang",
+                    "-Gender": "F",
+                    "-Organisation": "CHN",
+                    "-BirthDate": "1993-12-02",
+                    "-IFId": "CHNW19931202"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "-Rank": "7",
+          "-Played": "9",
+          "-Won": "3",
+          "-Lost": "6",
+          "-SortOrder": "7",
+          "Competitor": {
+            "-Code": "CURWTEAM4---KOR01",
+            "-Type": "T",
+            "-Organisation": "KOR",
+            "Description": { "-TeamName": "Republic of Korea" },
+            "Composition": {
+              "Athlete": [
+                {
+                  "-Code": "7740430",
+                  "-Order": "1",
+                  "Description": {
+                    "-GivenName": "Jisun",
+                    "-FamilyName": "Kim",
+                    "-Gender": "F",
+                    "-Organisation": "KOR",
+                    "-BirthDate": "1987-06-27",
+                    "-IFId": "KORW19870627"
+                  }
+                },
+                {
+                  "-Code": "7740431",
+                  "-Order": "2",
+                  "Description": {
+                    "-GivenName": "Un Chi",
+                    "-FamilyName": "Gim",
+                    "-Gender": "F",
+                    "-Organisation": "KOR",
+                    "-BirthDate": "1990-01-23",
+                    "-IFId": "KORW19900123"
+                  }
+                },
+                {
+                  "-Code": "7740432",
+                  "-Order": "3",
+                  "Description": {
+                    "-GivenName": "Mi Sung",
+                    "-FamilyName": "Shin",
+                    "-Gender": "F",
+                    "-Organisation": "KOR",
+                    "-BirthDate": "1978-04-15",
+                    "-IFId": "KORW19780415"
+                  }
+                },
+                {
+                  "-Code": "7740433",
+                  "-Order": "4",
+                  "Description": {
+                    "-GivenName": "Min Ji",
+                    "-FamilyName": "Um",
+                    "-Gender": "F",
+                    "-Organisation": "KOR",
+                    "-BirthDate": "1991-02-01",
+                    "-IFId": "KORW19910201"
+                  }
+                },
+                {
+                  "-Code": "7740434",
+                  "-Order": "5",
+                  "Description": {
+                    "-GivenName": "Seulbee",
+                    "-FamilyName": "Lee",
+                    "-Gender": "F",
+                    "-Organisation": "KOR",
+                    "-BirthDate": "1988-06-25",
+                    "-IFId": "KORW19880625"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "-Rank": "8",
+          "-Played": "9",
+          "-Won": "3",
+          "-Lost": "6",
+          "-SortOrder": "8",
+          "Competitor": {
+            "-Code": "CURWTEAM4---RUS01",
+            "-Type": "T",
+            "-Organisation": "RUS",
+            "Description": { "-TeamName": "Russian Federation" },
+            "Composition": {
+              "Athlete": [
+                {
+                  "-Code": "7740079",
+                  "-Order": "1",
+                  "Description": {
+                    "-GivenName": "Anna",
+                    "-FamilyName": "Sidorova",
+                    "-Gender": "F",
+                    "-Organisation": "RUS",
+                    "-BirthDate": "1991-02-06",
+                    "-IFId": "RUSW19910206"
+                  }
+                },
+                {
+                  "-Code": "7740080",
+                  "-Order": "2",
+                  "Description": {
+                    "-GivenName": "Margarita",
+                    "-FamilyName": "Fomina",
+                    "-Gender": "F",
+                    "-Organisation": "RUS",
+                    "-BirthDate": "1988-08-19",
+                    "-IFId": "RUSW19880819"
+                  }
+                },
+                {
+                  "-Code": "7740073",
+                  "-Order": "3",
+                  "Description": {
+                    "-GivenName": "Alexandra",
+                    "-FamilyName": "Saitova",
+                    "-Gender": "F",
+                    "-Organisation": "RUS",
+                    "-BirthDate": "1992-08-20",
+                    "-IFId": "RUSW19920820"
+                  }
+                },
+                {
+                  "-Code": "7740074",
+                  "-Order": "4",
+                  "Description": {
+                    "-GivenName": "Ekaterina",
+                    "-FamilyName": "Galkina",
+                    "-Gender": "F",
+                    "-Organisation": "RUS",
+                    "-BirthDate": "1988-08-10",
+                    "-IFId": "RUSW19880810"
+                  }
+                },
+                {
+                  "-Code": "7740076",
+                  "-Order": "5",
+                  "Description": {
+                    "-GivenName": "Nkeiruka",
+                    "-FamilyName": "Ezekh",
+                    "-Gender": "F",
+                    "-Organisation": "RUS",
+                    "-BirthDate": "1983-10-17",
+                    "-IFId": "RUSW19831017"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "-ResultType": "IRM",
+          "-IRM": "DQB",
+          "-SortOrder": "9",
+          "Competitor": {
+            "-Code": "CURWTEAM4---SWE01",
+            "-Type": "T",
+            "-Organisation": "SWE",
+            "Description": { "-TeamName": "Sweden" },
+            "Composition": {
+              "Athlete": [
+                {
+                  "-Code": "7740037",
+                  "-Order": "1",
+                  "Description": {
+                    "-GivenName": "Maria",
+                    "-FamilyName": "Prytz",
+                    "-Gender": "F",
+                    "-Organisation": "SWE",
+                    "-BirthDate": "1976-10-18",
+                    "-IFId": "SWEW19761018"
+                  }
+                },
+                {
+                  "-Code": "7740039",
+                  "-Order": "2",
+                  "Description": {
+                    "-GivenName": "Christina",
+                    "-FamilyName": "Bertrup",
+                    "-Gender": "F",
+                    "-Organisation": "SWE",
+                    "-BirthDate": "1976-12-23",
+                    "-IFId": "SWEW19761223"
+                  }
+                },
+                {
+                  "-Code": "7740038",
+                  "-Order": "3",
+                  "Description": {
+                    "-GivenName": "Maria",
+                    "-FamilyName": "Wennerstroem",
+                    "-Gender": "F",
+                    "-Organisation": "SWE",
+                    "-BirthDate": "1985-04-10",
+                    "-IFId": "SWEW19850410"
+                  }
+                },
+                {
+                  "-Code": "7740036",
+                  "-Order": "4",
+                  "Description": {
+                    "-GivenName": "Margaretha",
+                    "-FamilyName": "Sigfridsson",
+                    "-Gender": "F",
+                    "-Organisation": "SWE",
+                    "-BirthDate": "1976-01-28",
+                    "-IFId": "SWEW19760128"
+                  }
+                },
+                {
+                  "-Code": "7740040",
+                  "-Order": "5",
+                  "Description": {
+                    "-GivenName": "Agnes",
+                    "-FamilyName": "Knochenhauer",
+                    "-Gender": "F",
+                    "-Organisation": "SWE",
+                    "-BirthDate": "1989-05-05",
+                    "-IFId": "SWEW19890505"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "-ResultType": "IRM",
+          "-IRM": "DQB",
+          "-SortOrder": "10",
+          "Competitor": {
+            "-Code": "CURWTEAM4---USA01",
+            "-Type": "T",
+            "-Organisation": "USA",
+            "Description": { "-TeamName": "United States of America" },
+            "Composition": {
+              "Athlete": [
+                {
+                  "-Code": "7740418",
+                  "-Order": "1",
+                  "Description": {
+                    "-GivenName": "Erika",
+                    "-FamilyName": "Brown",
+                    "-Gender": "F",
+                    "-Organisation": "USA",
+                    "-BirthDate": "1973-01-25",
+                    "-IFId": "USAW19730125"
+                  }
+                },
+                {
+                  "-Code": "7740405",
+                  "-Order": "2",
+                  "Description": {
+                    "-GivenName": "Debbie",
+                    "-FamilyName": "McCormick",
+                    "-Gender": "F",
+                    "-Organisation": "USA",
+                    "-BirthDate": "1974-01-08",
+                    "-IFId": "USAW19740108"
+                  }
+                },
+                {
+                  "-Code": "7740410",
+                  "-Order": "3",
+                  "Description": {
+                    "-GivenName": "Jessica",
+                    "-FamilyName": "Schultz",
+                    "-Gender": "F",
+                    "-Organisation": "USA",
+                    "-BirthDate": "1985-01-02",
+                    "-IFId": "USAW19850102"
+                  }
+                },
+                {
+                  "-Code": "7740400",
+                  "-Order": "4",
+                  "Description": {
+                    "-GivenName": "Ann",
+                    "-FamilyName": "Swisshelm",
+                    "-Gender": "F",
+                    "-Organisation": "USA",
+                    "-BirthDate": "1968-03-09",
+                    "-IFId": "USAW19680309"
+                  }
+                },
+                {
+                  "-Code": "7740117",
+                  "-Order": "5",
+                  "Description": {
+                    "-GivenName": "Allison",
+                    "-FamilyName": "Pottinger2",
+                    "-Gender": "F",
+                    "-Organisation": "USA",
+                    "-BirthDate": "1973-11-29",
+                    "-IFId": "USAW19730705"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}
